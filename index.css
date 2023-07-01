@@ -10,4 +10,15 @@
 
 ul {
   list-style: none;
+  list-style-position: outside;
+}
+
+body {
+  background-color: brown;
+  text-align: left;
+}
+
+#h2 {
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
